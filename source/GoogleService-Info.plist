@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>289395737840-c99in44a0sabd0auvo5q9c2u58r69c0e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.289395737840-c99in44a0sabd0auvo5q9c2u58r69c0e</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>289395737840-s9smahun8rf8nm0o09i6h9lhf7864ipk.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDKxNHadI_IdGYA9GZEfRavET2K7_Hrl1I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>289395737840</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>water.project.app</string>
+	<key>PROJECT_ID</key>
+	<string>android-project-c8441</string>
+	<key>STORAGE_BUCKET</key>
+	<string>android-project-c8441.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:289395737840:ios:ce14c43821b08b4c85ee35</string>
+	<key>DATABASE_URL</key>
+	<string>https://android-project-c8441.firebaseio.com</string>
+</dict>
+</plist>
